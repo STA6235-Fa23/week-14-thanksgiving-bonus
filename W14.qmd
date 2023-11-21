@@ -1,0 +1,22 @@
+---
+title: "STA6235 - Week 14"
+author: "Your Name Here"
+format: html
+self-contained: true
+---
+
+**This week, you are challenged to an ugly graph competition. Please use the `penguins` dataset from the `palmerpenguins` package as the dataset of interest.**
+
+**1. Construct the worst graph -- appearance-wise -- that you can think of, using the penguin data.**
+
+```{r}
+
+```
+
+**2. Write a brief paragraph, walking the reader through what they are looking at, above.**
+
+
+
+
+
+
